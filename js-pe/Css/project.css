@@ -1,0 +1,11 @@
+.row {
+    margin-bottom: 15px;
+}
+
+.lijn {
+    margin-top: 30px;
+}
+
+#knop {
+    cursor: pointer;
+}
